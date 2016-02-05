@@ -37,6 +37,7 @@ The Azure IoT libraries have been tested on the following operating system platf
 |Windows OS platforms  |   Version|
 |:---------------|:------------:|
 |Windows desktop| 7,8,10 |
+|Windows Mobile| 10 |
 |Windows IoT Core| 10 |
 |Windows Server| 2012 R2|
 
@@ -97,6 +98,7 @@ The [Microsoft Azure IoT device SDK for .NET](https://github.com/Azure/azure-iot
 |OS platform| Version|Protocols|
 |:---------|:----------:|:----------:|
 |Windows desktop| 7,8,10 | HTTPS, AMPQ|
+|Windows Mobile| 10 | HTTPS, AMPQ|
 |Windows IoT Core|10 | HTTPS|
 
 Managed agent code requires Microsoft .NET Framework 4.5
